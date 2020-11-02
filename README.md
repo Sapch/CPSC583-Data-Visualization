@@ -1,5 +1,6 @@
 # Data-Visualization
 Interactive data visualization of countries GDP per capita vs happiness score and Gini coeff.
+A D3.js project
 
 Note: Webpage is hosted at AWS
 
