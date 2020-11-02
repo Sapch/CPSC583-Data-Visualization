@@ -3,4 +3,4 @@ Interactive data visualization of countries GDP per capita vs happiness score an
 
 Note: Webpage is hosted at AWS
 
-ec2-54-209-66-71.compute-1.amazonaws.com
+http://ec2-54-209-66-71.compute-1.amazonaws.com
